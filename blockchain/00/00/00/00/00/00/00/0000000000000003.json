@@ -1,0 +1,48 @@
+{
+  "actions": [
+    {
+      "block": {
+        "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+        "locidx": 0,
+        "filename": "confirmations/2022/04/01/2022-04-01T09:24:17.823968+00:00/0000000000000003.json",
+        "SHA-512": "497c2a304acc34fd71945283d6333433fdc8d60e1a53d3792480c02849140dba8fb8f4074f75450c31f80e2ca39f39c1c58f17d84bc67e4d14f53feaaa7790fb"
+      },
+      "block_ref": {
+        "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+        "locidx": 0,
+        "filename": "confirmations/2022/04/01/2022-04-01T09:24:17.823968+00:00/0000000000000003.ref.json",
+        "SHA-512": "daa86af44500de6cdef3371b11ad00c34a43b2478e318e9bf5e573b78c9d0a06423d385b6dabaa41df799e483259e8f9e32a27b203804ab1355d217e1e183185"
+      },
+      "block_sig": {
+        "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+        "locidx": 0,
+        "filename": "confirmations/2022/04/01/2022-04-01T09:24:17.823968+00:00/0000000000000003.ref.json.sig",
+        "SHA-512": "79634b5b45bee210cdf5b1d63374d8e114ef7232fd0ee218d66ae8b65726cf3ab32b26bd7bfd46df95266f93c4d8b61171151c7431df8cdef2bfc2a9739c3e88"
+      },
+      "type": "sign_transaction",
+      "gpg": "DC897BAB536066ACB664154C13D60343191E2BCB",
+      "transaction": {
+        "SHA-512": "b5eb9df1f58ccb45d9d7938e0a138b5221a7fb6fd176b7965d639f79c44f5164c2d2d47fec0e170dd0583a2bd1d6d4e2dbce503590fda088c298f5f28638adb2"
+      }
+    },
+    {
+      "type": "confirm_transaction",
+      "transaction": {
+        "SHA-512": "b5eb9df1f58ccb45d9d7938e0a138b5221a7fb6fd176b7965d639f79c44f5164c2d2d47fec0e170dd0583a2bd1d6d4e2dbce503590fda088c298f5f28638adb2"
+      }
+    }
+  ],
+  "pyom_version": 1,
+  "pyom_block_magic": "bc1ae75a-7137-11ec-ab3c-2b53f48d31de",
+  "idx": 3,
+  "owner": {
+    "gpg": "11CF46444FC873ECEA2E20BA5348C0615BD1F116"
+  },
+  "prev": {
+    "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+    "locidx": 0,
+    "filename": "blockchain/00/00/00/00/00/00/00/0000000000000002.json",
+    "SHA-512": "11b9a0eda3bb444f1f19c18beb6e4c49d44dea3229c21b391ca55682b6e5e1c07b5b8bfa430788738eb1d9d47134bbfc29f4d2749e8ada93e28eec08052de869"
+  },
+  "timestamp": "2022-04-01T09:24:17.825082+00:00"
+}

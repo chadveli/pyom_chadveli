@@ -1,0 +1,36 @@
+{
+  "actions": [
+    {
+      "type": "import_gpg_key",
+      "gpg": "DC897BAB536066ACB664154C13D60343191E2BCB",
+      "keyfile": {
+        "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+        "locidx": 0,
+        "filename": "transactions/2022/04/01/2022-04-01T09:15:53.593278+00:00/DC897BAB536066ACB664154C13D60343191E2BCB/DC897BAB536066ACB664154C13D60343191E2BCB.key",
+        "SHA-512": "d96d3bad414be1ae0260bfd2669a16597e454f9cdab67872f4d8c25de4ebdb5914adf4ada58ea37925b762255f647e5100a39641efb14bc236dc1315cd7a3994"
+      },
+      "git_remote_urls": {
+        "origin": "git@github.com:zacveli/pyom_zacveli.git"
+      }
+    },
+    {
+      "type": "register_transaction",
+      "transaction": {
+        "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+        "locidx": 0,
+        "filename": "transactions/2022/04/01/2022-04-01T09:15:53.593278+00:00/transaction.json",
+        "SHA-512": "b5eb9df1f58ccb45d9d7938e0a138b5221a7fb6fd176b7965d639f79c44f5164c2d2d47fec0e170dd0583a2bd1d6d4e2dbce503590fda088c298f5f28638adb2"
+      },
+      "locations": [
+        {
+          "locidx": 0,
+          "filename": "."
+        },
+        {
+          "locidx": 0,
+          "filename": "transactions/2022/04/01/2022-04-01T09:15:53.593278+00:00"
+        }
+      ]
+    }
+  ]
+}

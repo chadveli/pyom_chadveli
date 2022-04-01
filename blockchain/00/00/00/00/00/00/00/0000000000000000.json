@@ -1,0 +1,30 @@
+{
+  "actions": [
+    {
+      "type": "import_gpg_key",
+      "gpg": "11CF46444FC873ECEA2E20BA5348C0615BD1F116",
+      "keyfile": {
+        "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+        "locidx": 0,
+        "filename": "public.key",
+        "SHA-512": "6d26541da7dd9a1f2c17120f31ab6bf2bb60e10977a455e9cc22d5cbe91a53b46dff53e1babb9155a21ed3a5b2501fedc058045a69ff606a412e4a5e6bdfd2b4"
+      },
+      "git_remote_urls": {
+        "origin": "git@github.com:chadveli/pyom_chadveli.git"
+      }
+    }
+  ],
+  "pyom_version": 1,
+  "pyom_block_magic": "bc1ae75a-7137-11ec-ab3c-2b53f48d31de",
+  "idx": 0,
+  "owner": {
+    "gpg": "11CF46444FC873ECEA2E20BA5348C0615BD1F116"
+  },
+  "prev": {
+    "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+    "locidx": 0,
+    "filename": "public.key",
+    "SHA-512": "6d26541da7dd9a1f2c17120f31ab6bf2bb60e10977a455e9cc22d5cbe91a53b46dff53e1babb9155a21ed3a5b2501fedc058045a69ff606a412e4a5e6bdfd2b4"
+  },
+  "timestamp": "2022-04-01T09:12:15.926854+00:00"
+}
